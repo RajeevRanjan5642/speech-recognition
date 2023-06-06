@@ -31,7 +31,7 @@ except OSError :
  # NOTE: Might get an error something like this that i got:
  #    OSError: FLAC conversion utility not available - consider installing the FLAC command 
  #    line application by running `apt-get install flac` or your operating system's equivalent
-    
+ #   Flac:A FLAC encoder is required to encode (convert into coded form) the audio data to send to the API.
  #   Don't worry just follow the following steps:
  #   1.Download flac (https://sourceforge.net/projects/flac/) in your PC.
  #   2.You will get a zip-file. Extract it. 
